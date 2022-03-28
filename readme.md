@@ -56,6 +56,7 @@
 * [Virtuoso](https://virtuoso.openlinksw.com/) - a "Data Junction Box" that drives enterprise and individual agility by deriving a Semantic Web of Linked Data from existing data silos
 * [Hoply](https://github.com/amirouche/hoply/) - explore bigger than RAM relational data in the comfort of Python.
 * [Apache Marmotta](https://marmotta.apache.org/) - (retired Apache project) an open platform for linked data.
+* [RDFox](https://www.oxfordsemantic.tech/)- RDFox is a main-memory, scalable, centralized data store that allows users to efficiently manage graph-structured data represented according to the RDF data model and query that data using the SPARQL 1.1 query language.
 
 ### Graph Computing Frameworks
 
